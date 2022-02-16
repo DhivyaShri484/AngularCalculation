@@ -39,11 +39,11 @@ app.component.html coding:
     <div class="container">
     <div class="content">
     <app-rectangle></app-rectangle>
-    <div class="footer">Developed By Naveenkumar.V</div>
+    <div class="footer">Developed By DhivyaShri484</div>
     </div>
     <div class="content">
     <app-cone></app-cone>
-    <div class="footer">Developed By Naveenkumar.V</div>
+    <div class="footer">Developed By DhivyaShri484</div>
     </div>
     </div>
     </body>
